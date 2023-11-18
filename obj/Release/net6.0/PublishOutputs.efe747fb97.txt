@@ -1,0 +1,3 @@
+E:\ProjectsForGit\Proj5\release\sample-data\weather.json
+E:\ProjectsForGit\Proj5\release\_framework\blazor.boot.json
+E:\ProjectsForGit\Proj5\release\web.config
